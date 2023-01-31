@@ -1,0 +1,5 @@
+print("text before \"quotation marks\"")
+variable_name = "concatenation"
+print(variable_name + " text")
+troll = "trolling"
+print("we do a little " + troll + " .")
